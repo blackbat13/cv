@@ -31,6 +31,16 @@ __Computer Science Teacher__, High School No. 4 in Toruń, Poland
 `2024`
 Best Demonstration Award, The 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024), Auckland, New Zealand
 
+## Skills
+
+`Languages`
+Polish: native
+
+English: intermediate
+
+`Programming`
+Python, C++, JavaScript, Ruby
+
 ## Publications
 
 ### Journals
@@ -44,7 +54,7 @@ Wojciech Jamroga, Beata Konikowska, Damian Kurpiewski, Wojciech Penczek:
 __Multi-valued Verification of Strategic Ability.__ Fundam. Informaticae 175(1-4): 207-251 (2020)
 
 `2019`
-Wojciech Jamroga, Michal Knapik, Damian Kurpiewski, Lukasz Mikulski:
+Wojciech Jamroga, Michal Knapik, Damian Kurpiewski, Łukasz Mikulski:
 __Approximate verification of strategic abilities under imperfect information.__ Artif. Intell. 277 (2019)
 
 Damian Kurpiewski, Diego Marmsoler:
@@ -59,10 +69,10 @@ __Approximate Verification of Strategic Abilities under Imperfect Information Us
 Mateusz Kaminski, Damian Kurpiewski, Wojciech Jamroga:
 __NatSTV: Towards Verification of Natural Strategic Ability.__ IJCAI 2025: 11072-11076
 
-Damian Kurpiewski
+Damian Kurpiewski:
 __Materiały edukacyjne z informatyki - jak uczyć złożonych zagadnień w jak najprostszy sposób.__ IWE 2025: 138-146
 
-Damian Kurpiewski, Krzysztof Skowronek
+Damian Kurpiewski, Krzysztof Skowronek:
 __Refleksje młodego informatyka i dziadersa na temat polskiej oświaty: propozycja metody wyjścia z permanentnego kryzysu oświaty w Polsce.__ IWE 2025: 147-150
 
 `2024`
@@ -82,20 +92,20 @@ __Pretty Good Strategies and Where to Find Them.__ EUMAS 2023: 363-380
 Damian Kurpiewski, Wojciech Jamroga, Teofil Sidoruk:
 __Towards Modelling and Verification of Social Explainable AI.__ ICAART 2023: 396-403
 
-Wojciech Jamroga, Damian Kurpiewski, Łukasz Mikulski, Teofil Sidoruk
+Wojciech Jamroga, Damian Kurpiewski, Łukasz Mikulski, Teofil Sidoruk:
 __Trust Topologies in Verification of Social Explainable AI.__ TLXXIII BLESS
 
 `2022`
-Wojtek Jamroga, Lukasz Masko, Lukasz Mikulski, Witold Pazderski, Wojciech Penczek, Teofil Sidoruk, Damian Kurpiewski:
+Wojtek Jamroga, Łukasz Masko, Łukasz Mikulski, Witold Pazderski, Wojciech Penczek, Teofil Sidoruk, Damian Kurpiewski:
 __Verification of Multi-Agent Properties in Electronic Voting: A Case Study.__ AiML 2022: 531-556
 
-Lukasz Mikulski, Wojciech Jamroga, Damian Kurpiewski:
+Łukasz Mikulski, Wojciech Jamroga, Damian Kurpiewski:
 __Towards Assume-Guarantee Verification of Strategic Ability.__ AAMAS 2022: 1702-1704
 
-Lukasz Mikulski, Wojciech Jamroga, Damian Kurpiewski:
+Łukasz Mikulski, Wojciech Jamroga, Damian Kurpiewski:
 __Assume-Guarantee Verification of Strategic Ability.__ PRIMA 2022: 173-191
 
-Damian Kurpiewski, Lukasz Mikulski, Wojciech Jamroga:
+Damian Kurpiewski, Łukasz Mikulski, Wojciech Jamroga:
 __STV+AGR: Towards Verification of Strategic Ability Using Assume-Guarantee Reasoning.__ PRIMA 2022: 691-696
 
 `2021`
