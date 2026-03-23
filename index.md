@@ -12,8 +12,8 @@ Software Engineer, Research Scientist, Academic Teacher.
 
 ## Education
 
-`Master's degree in Computer Science`
-__Faculty of Mathematics and Computer Science, Nicolaus Copernicus University in Toruń.__
+`2015`
+__Master's degree in Computer Science__, Faculty of Mathematics and Computer Science, Nicolaus Copernicus University in Toruń.
 
 ## Occupation
 
